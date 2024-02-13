@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh-kankane" alt="shreyansh-kankane" /></a> </p>
 
-- 🔭 I’m currently working on [omeglerr]
+- 🔭 I’m currently working on [omeglerr](https://github.com/Shreyansh-Kankane/omeglerr)
 
 - 🌱 I’m currently learning **Spring-Boot,**
 
