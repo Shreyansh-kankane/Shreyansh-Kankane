@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh-kankane" alt="shreyansh-kankane" /></a> </p>
 
-- 🔭 I’m currently working on [Omeglerr](Omeglerr.com)
+- 🔭 I’m currently working on (Omeglerr.com)
 
 - 🌱 I’m currently learning **Spring-Boot,**
 
-- 👯 I’m looking to collaborate on [Omeglerr](Omeglerr.com)
+- 👯 I’m looking to collaborate on (Omeglerr.com)
 
-- 🤝 I’m looking for help with [Omeglerr](Omeglerr.com)
+- 🤝 I’m looking for help with (Omeglerr.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyansh-kankane/](https://github.com/Shreyansh-kankane/)
 
