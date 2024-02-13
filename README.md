@@ -7,15 +7,11 @@
 
 - 🔭 I’m currently working on [omeglerr](https://github.com/Shreyansh-Kankane/omeglerr)
 
-- 🌱 I’m currently learning **Spring-Boot,**
-
-- 👯 I’m looking to collaborate on [omeglerr]
-
-- 🤝 I’m looking for help with [omeglerr]
+- 🌱 I’m currently learning **Spring-Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyansh-kankane/](https://github.com/Shreyansh-kankane/)
 
-- 💬 Ask me about **Nextjs, TypeScript, JavaScript, DevOps,**
+- 💬 Ask me about **Nextjs, TypeScript, JavaScript, DevOps, NodeJs, Express, HTML, CSS, C++**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shreyanshgupta1203/**
 
