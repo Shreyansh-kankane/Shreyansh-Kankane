@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Gupta</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from Chandigarh, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh-kankane&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh-kankane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh-kankane" alt="shreyansh-kankane" /></a> </p>
-  
 
-- 🌱 I’m currently learning **Spring-Boot**
+- I am currently building a startup, work as Full Stack Developer at **Vizal.ai**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shreyansh-kankane/](https://github.com/Shreyansh-kankane/)
+- I have worked with many startup and help them grow, some of which are Truminds Software System, Vizal.ai
 
 - 💬 Ask me about **Nextjs, TypeScript, JavaScript, DevOps, NodeJs, Express, HTML, CSS, C++, AWS, Azure, Docker**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Shreyansh-kankane/](https://github.com/Shreyansh-kankane/)
+
 - 📫 How to reach me **https://www.linkedin.com/in/shreyanshgupta1203/**
+
+- Visit my portfolio **https://shreyanshsk76.netlify.app/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/198xDoqkiI6iWB6MgzjiPIYuHfy4yQJhn/view](https://drive.google.com/file/d/198xDoqkiI6iWB6MgzjiPIYuHfy4yQJhn/view)
 
